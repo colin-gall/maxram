@@ -1,5 +1,5 @@
 # maxram
-Displays the maximum amount of RAM supported by your PC's motherboard.
+Displays the maximum amount of RAM supported by your PC's motherboard on Windows OS.
 
 ## Usage:
 ```
